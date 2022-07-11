@@ -2,4 +2,4 @@
 rep about hw from stepik
 https://stepik.org/course/575/syllabus
 
-Welcome)
+Welcome!)
